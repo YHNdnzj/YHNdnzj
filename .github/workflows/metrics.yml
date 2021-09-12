@@ -1,0 +1,21 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 12 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Left Part
+        uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics_left.*
+          template: classic
+      - name: Right Part
+        uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics_right.*
