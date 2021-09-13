@@ -22,5 +22,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_languages: yes
+          plugin_languages_skipped: yhndnzj.github.io
+          plugin_languages_ignored: lua
           plugin_notable: yes
           plugin_notable_repositories: yes
