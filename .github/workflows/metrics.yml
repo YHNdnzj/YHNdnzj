@@ -7,7 +7,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    steps:
+    steps: 
       - name: Left Part
         uses: lowlighter/metrics@master
         with:
@@ -19,3 +19,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics_right.*
+          base: ""
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_notable: yes
+          plugin_notable_repositories: yes
