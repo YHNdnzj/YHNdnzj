@@ -1,12 +1,14 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 12 * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
   push: {branches: ["master"]}
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps: 
       - name: Left Part
         uses: lowlighter/metrics@master
@@ -22,7 +24,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_skipped: yhndnzj.github.io
+          plugin_languages_skipped: blog
           plugin_languages_ignored: lua
           plugin_notable: yes
           plugin_notable_repositories: yes
