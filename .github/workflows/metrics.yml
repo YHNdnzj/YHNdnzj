@@ -18,6 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics_left.*
           template: classic
+          repositories_forks: yes
           base_indepth: yes
           plugin_lines: yes
           plugin_habits: yes
