@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="363.1820327253162" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="363.1820327253162" y="0" width="64.08216037725897" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="427.26419310257523" y="0" width="27.27704058487799" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.5412336874532" y="0" width="3.010437920011816" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.551671607465" y="0" width="0.6464526474590934" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.1981242549241" y="0" width="0.23764571838504467" height="8" fill="#4d41b1"/>
-                    <rect mask="url(#languages-bar)" x="458.43576997330916" y="0" width="0.11145860806633681" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="458.54722858137546" y="0" width="1.452771418624524" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="363.18908756688677" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="363.18908756688677" y="0" width="64.0774908980116" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="427.2665784648984" y="0" width="27.275052986860217" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.5416314517586" y="0" width="3.0102185582220415" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.5518500099806" y="0" width="0.646405542348967" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.19825555232956" y="0" width="0.23762840183791692" height="8" fill="#4d41b1"/>
+                    <rect mask="url(#languages-bar)" x="458.4358839541675" y="0" width="0.1114504864041731" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="458.54733444057166" y="0" width="1.452665559428291" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -94,15 +94,15 @@
                         <span class="name">@systemd/systemd</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="1.2525258441444342 329"/>
-                            <text x="15" y="15" dominant-baseline="central">260</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="1.2571959825480952 329"/>
+                            <text x="15" y="15" dominant-baseline="central">261</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="1.2455687489244536 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="1.2450331125827814 329"/>
                             <text x="15" y="15" dominant-baseline="central">44</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
