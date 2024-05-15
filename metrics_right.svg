@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.4626824853197" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="369.4626824853197" y="0" width="62.72114138995885" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="432.1838238752785" y="0" width="23.717969611909957" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.90179348718846" y="0" width="0.5901877685804284" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="456.49198125576885" y="0" width="0.49609662503611834" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.988077880805" y="0" width="0.42640810243279753" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="457.41448598323785" y="0" width="0.3824070392633528" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.7968930225012" y="0" width="2.2031069774988103" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.38564307334985" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="369.38564307334985" y="0" width="62.723456772386335" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="432.1090998457361" y="0" width="23.793655362653542" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.9027552083897" y="0" width="0.5900492699254744" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="456.4928044783151" y="0" width="0.4959802066368351" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.988784684952" y="0" width="0.4263080377554315" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="457.4150927227074" y="0" width="0.3823173002626441" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="457.79741002297004" y="0" width="2.2025899770298967" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -94,16 +94,16 @@
                         <span class="name">@systemd/systemd</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.771029687372681 329"/>
-                            <text x="15" y="15" dominant-baseline="central">844</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.8036230409118668 329"/>
+                            <text x="15" y="15" dominant-baseline="central">852</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.769573520050923 329"/>
-                            <text x="15" y="15" dominant-baseline="central">144</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.7948452788163234 329"/>
+                            <text x="15" y="15" dominant-baseline="central">145</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
@@ -151,30 +151,30 @@
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
+                                        Opened
+                                        <span class="issue">#32817 core/core-varlink: trivial cleanups</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">systemd/systemd</span></div>
+                                    <div>2 files changed <span class="code">++44 --48</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
                                         Merged
-                                        <span class="issue">#32776 core/service: remove unnecessary reset of notify_access_override</span>
+                                        <span class="issue">#32804 shared/bootspec: some fixes/modernizations</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">systemd/systemd</span></div>
-                                    <div>1 file changed <span class="code">++1 --4</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#32789 machined: rename vsockCid → vSockCid field in Varlink API</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by poettering in <span class="repo">systemd/systemd</span></div>
-                                    <div>3 files changed <span class="code">++3 --3</span></div>
+                                    <div>1 file changed <span class="code">++24 --27</span></div>
                                 </div>
                             </section>
                         </div>
@@ -186,12 +186,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#32784 docs/RELEASE: use meson.version for tags</span>
+                                        <span class="issue">#32805 core/mount: stop generating mount units for cred mounts</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">systemd/systemd</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
+                                    <div>5 files changed <span class="code">++22 --61</span></div>
                                 </div>
                             </section>
                         </div>
@@ -203,12 +203,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#32776 core/service: remove unnecessary reset of notify_access_override</span>
+                                        <span class="issue">#32804 shared/bootspec: some fixes/modernizations</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">systemd/systemd</span></div>
-                                    <div>1 file changed <span class="code">++1 --4</span></div>
+                                    <div>1 file changed <span class="code">++24 --27</span></div>
                                 </div>
                             </section>
                         </div>
@@ -220,12 +220,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#3030 libmount/utils: add pidfs to pseudo fs list</span>
+                                        <span class="issue">#32800 switch-root: preserve the whole cred mount tree (/run/credentials/)</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">util-linux/util-linux</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div> in <span class="repo">systemd/systemd</span></div>
+                                    <div>1 file changed <span class="code">++6 --7</span></div>
                                 </div>
                             </section>
                         </div>
