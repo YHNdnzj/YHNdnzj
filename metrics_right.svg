@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.7932549598848" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="369.7932549598848" y="0" width="62.47471067823844" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="432.26796563812326" y="0" width="23.6637283116619" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.93169394978514" y="0" width="0.5855757906901815" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="456.51726974047534" y="0" width="0.4922199153042378" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.0094896557796" y="0" width="0.423075968414886" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="457.43256562419447" y="0" width="0.3433548913734557" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.7759205155679" y="0" width="2.224079484432079" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.7936475075647" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="369.7936475075647" y="0" width="62.474418931190804" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="432.26806643875545" y="0" width="23.663642298542804" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.93170873729827" y="0" width="0.5855736622343625" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="456.51728239953263" y="0" width="0.4922181261791414" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.00950052571176" y="0" width="0.4230744306147905" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="457.43257495632656" y="0" width="0.34335364334420293" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="457.77592859967075" y="0" width="2.2240714003292252" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -94,7 +94,7 @@
                         <span class="name">@systemd/systemd</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.9657794676806084 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.9657259967370933 329"/>
                             <text x="15" y="15" dominant-baseline="central">894</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -102,7 +102,7 @@
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.965104371799921 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.9644797983775697 329"/>
                             <text x="15" y="15" dominant-baseline="central">153</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -152,6 +152,40 @@
                                     </svg>
                                     <div class="content">
                                         Opened
+                                        <span class="issue">#33258 core/cgroup: various fixes for accounting</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">systemd/systemd</span></div>
+                                    <div>12 files changed <span class="code">++104 --142</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#33257 core/unit: several cleanups</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">systemd/systemd</span></div>
+                                    <div>3 files changed <span class="code">++72 --68</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
                                         <span class="issue">#33255 core/manager: enclose debug info acquirement in 'if (DEBUG_LOGGING)'</span>
                                     </div>
                                 </div>
@@ -192,40 +226,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">systemd/systemd</span></div>
                                     <div>1 file changed <span class="code">++6 --1</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#33093 bus-unit-util: rework UnitFreezer, explicitly thaw unit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">systemd/systemd</span></div>
-                                    <div>5 files changed <span class="code">++97 --90</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#33092 UnitFreezer: several cleanups</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">systemd/systemd</span></div>
-                                    <div>12 files changed <span class="code">++176 --160</span></div>
                                 </div>
                             </section>
                         </div>
