@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="371.4129613619117" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="371.4129613619117" y="0" width="61.23681605447079" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="432.6497774163825" y="0" width="23.218844178440015" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.8686215948225" y="0" width="0.5686827567803211" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="456.43730435160285" y="0" width="0.4780200664502703" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.9153244180531" y="0" width="0.41087082470077185" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="457.3261952427539" y="0" width="0.33344958805438957" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.65964483080825" y="0" width="2.3403551691917697" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="371.4248531976947" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="371.4248531976947" y="0" width="61.21860904957073" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="432.64346224726546" y="0" width="23.22678457898737" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.8702468262528" y="0" width="0.568459044256422" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="456.4387058705093" y="0" width="0.4778320194693041" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.9165378899786" y="0" width="0.4107091933727697" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="457.3272470833513" y="0" width="0.33331841325078004" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="457.66056549660215" y="0" width="2.3394345033979187" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -94,7 +94,7 @@
                         <span class="name">@systemd/systemd</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.056958124040971 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.056162389688045 329"/>
                             <text x="15" y="15" dominant-baseline="central">1172</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -102,7 +102,7 @@
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.046786316919773 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.043691552966426 329"/>
                             <text x="15" y="15" dominant-baseline="central">200</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -144,6 +144,23 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#34410 tmpfiles.d/systemd: do not make journal files executable</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">systemd/systemd</span></div>
+                                    <div>1 file changed <span class="code">++6 --6</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -209,23 +226,6 @@
                                 <div class="details">
                                     <div>opened by apatard in <span class="repo">systemd/systemd</span></div>
                                     <div>2 files changed <span class="code">++13 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#34363 pcrlock: log if we generate an "empty" policy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by poettering in <span class="repo">systemd/systemd</span></div>
-                                    <div>1 file changed <span class="code">++3 --0</span></div>
                                 </div>
                             </section>
                         </div>
