@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="371.42504486785975" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="371.42504486785975" y="0" width="61.21847657696045" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="432.6435214448202" y="0" width="23.22673431791759" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.87025576273777" y="0" width="0.5684578141524618" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="456.4387135768902" y="0" width="0.4778309854756234" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.91654456236586" y="0" width="0.4107083046279949" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="457.32725286699383" y="0" width="0.3333176919740157" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.66057055896783" y="0" width="2.339429441032079" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="371.43331544484465" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="371.43331544484465" y="0" width="61.21613032580633" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="432.649445770651" y="0" width="23.22170433053062" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.8711501011816" y="0" width="0.5683347087862027" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="456.43948480996784" y="0" width="0.47772750627802535" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.91721231624587" y="0" width="0.41061936153493134" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="457.32783167778075" y="0" width="0.3332455086113641" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="457.6610771863921" y="0" width="2.338922813607834" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -94,15 +94,15 @@
                         <span class="name">@systemd/systemd</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.059879375901403 329"/>
-                            <text x="15" y="15" dominant-baseline="central">1173</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.06279901954359 329"/>
+                            <text x="15" y="15" dominant-baseline="central">1174</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.0681330472103 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.066968048425408 329"/>
                             <text x="15" y="15" dominant-baseline="central">201</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -151,13 +151,13 @@
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Merged
-                                        <span class="issue">#34401 tree-wide: make sigprocmask() changes more automatic</span>
+                                        Opened
+                                        <span class="issue">#34433 man/bootup: rename initrd to exitrd at one more place</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by poettering in <span class="repo">systemd/systemd</span></div>
-                                    <div>26 files changed <span class="code">++81 --110</span></div>
+                                    <div> in <span class="repo">systemd/systemd</span></div>
+                                    <div>1 file changed <span class="code">++4 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -168,7 +168,7 @@
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
+                                        Closed
                                         <span class="issue">#34410 tmpfiles.d/systemd: do not make journal files executable</span>
                                     </div>
                                 </div>
@@ -185,13 +185,13 @@
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#22971 Add Logitech receivers and devices to hwdb and add uaccess</span>
+                                        Opened
+                                        <span class="issue">#34432 basic/path-lookup: several cleanups</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by hadess in <span class="repo">systemd/systemd</span></div>
-                                    <div>4 files changed <span class="code">++32 --0</span></div>
+                                    <div> in <span class="repo">systemd/systemd</span></div>
+                                    <div>10 files changed <span class="code">++434 --612</span></div>
                                 </div>
                             </section>
                         </div>
@@ -203,12 +203,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#34383 network/wireguard: refuse default key if all zero</span>
+                                        <span class="issue">#34429 basic/build: also include BTF status</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">systemd/systemd</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>1 file changed <span class="code">++7 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -220,12 +220,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#34360 man: fix help text for systemd-creds tool's "list" verb</span>
+                                        <span class="issue">#34401 tree-wide: make sigprocmask() changes more automatic</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by poettering in <span class="repo">systemd/systemd</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
+                                    <div>26 files changed <span class="code">++81 --110</span></div>
                                 </div>
                             </section>
                         </div>
