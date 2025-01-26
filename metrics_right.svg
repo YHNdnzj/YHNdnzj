@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.02980326712765" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="376.02980326712765" y="0" width="57.181834665812374" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="433.21163793294" y="0" width="20.875662671131533" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.0873006040716" y="0" width="1.308170464787978" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.39547106885954" y="0" width="0.7745640386210731" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.1700351074806" y="0" width="0.6068553333483437" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.77689044082894" y="0" width="0.4996500835286139" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="457.2765405243576" y="0" width="2.7234594756424313" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.07442455250845" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="376.07442455250845" y="0" width="57.16497159354766" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="433.2393961460561" y="0" width="20.854102476576784" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.0934986226329" y="0" width="1.3067991681467597" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.4002977907797" y="0" width="0.7737520977516225" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.1740498885313" y="0" width="0.6062191940203847" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.7802690825517" y="0" width="0.49912632267345775" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="457.27939540522516" y="0" width="2.7206045947748616" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -94,7 +94,7 @@
                         <span class="name">@systemd/systemd</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.860812946456792 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.860220219207869 329"/>
                             <text x="15" y="15" dominant-baseline="central">1409</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -102,7 +102,7 @@
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.871548178613396 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.869823788546256 329"/>
                             <text x="15" y="15" dominant-baseline="central">243</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
