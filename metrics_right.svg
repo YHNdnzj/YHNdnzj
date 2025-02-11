@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.076433173198" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="376.076433173198" y="0" width="57.08719100160949" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="433.16362417480747" y="0" width="20.94723947656334" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.1108636513708" y="0" width="1.3029571974673828" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.41382084883816" y="0" width="0.771477277760052" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.1852981265982" y="0" width="0.6044369183459942" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.7897350449442" y="0" width="0.4976588984940133" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="457.28739394343825" y="0" width="2.712606056561736" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.0769072652389" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="376.0769072652389" y="0" width="57.08686851075365" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="433.1637757759925" y="0" width="20.9471211436577" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.1108969196502" y="0" width="1.302949836940891" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.4138467565911" y="0" width="0.7714729196130983" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.1853196762042" y="0" width="0.6044335038255795" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.7897531800297" y="0" width="0.4976560871725719" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="457.2874092672023" y="0" width="2.712590732797624" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -94,7 +94,7 @@
                         <span class="name">@systemd/systemd</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.934166908252139 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.933568592853993 329"/>
                             <text x="15" y="15" dominant-baseline="central">1431</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -102,7 +102,7 @@
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.928144149401809 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="5.924254574615441 329"/>
                             <text x="15" y="15" dominant-baseline="central">247</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -144,6 +144,23 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#36343 string-util: introduce strprepend(), drop effectively unused strnappend()</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">systemd/systemd</span></div>
+                                    <div>5 files changed <span class="code">++53 --69</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -209,23 +226,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">systemd/systemd</span></div>
                                     <div>1 file changed <span class="code">++4 --10</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#36303 core/exec-invoke: drop unnecessary casts</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by yuwata in <span class="repo">systemd/systemd</span></div>
-                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
