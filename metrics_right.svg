@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.42875842895484" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="376.42875842895484" y="0" width="56.93922017526794" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="433.36797860422274" y="0" width="20.78605725528439" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.15403585950713" y="0" width="1.2934054506590527" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.4474413101662" y="0" width="0.765821715443909" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.2132630256101" y="0" width="0.6000058991100052" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.8132689247201" y="0" width="0.4940106498757418" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="457.30727957459584" y="0" width="2.692720425404102" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.43051143934775" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="376.43051143934775" y="0" width="56.93877826569249" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="433.3692897050403" y="0" width="20.785033952687368" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.1543236577276" y="0" width="1.2933417759976962" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.4476654337253" y="0" width="0.7657840138567032" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.213449447582" y="0" width="0.5999763606753108" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.8134258082573" y="0" width="0.49398632961265543" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="457.30741213786996" y="0" width="2.692587862130051" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -94,8 +94,8 @@
                         <span class="name">@systemd/systemd</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.285451311583478 329"/>
-                            <text x="15" y="15" dominant-baseline="central">1536</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.286962900338174 329"/>
+                            <text x="15" y="15" dominant-baseline="central">1537</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
