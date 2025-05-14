@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.11848273575913" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="374.11848273575913" y="0" width="58.62738735484939" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="432.74587009060855" y="0" width="21.396247310980673" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.14211740158925" y="0" width="1.3297370824134216" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.4718544840026" y="0" width="0.7873335720244033" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.259188056027" y="0" width="0.6168600057366674" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.8760480617637" y="0" width="0.5078873603881928" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="457.3839354221519" y="0" width="2.616064577848089" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.23117687454203" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="374.23117687454203" y="0" width="58.554978879916064" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="432.78615575445804" y="0" width="21.364740835618548" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.1508965900766" y="0" width="1.3277442100249641" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.4786408001016" y="0" width="0.7861535979100127" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.2647943980116" y="0" width="0.6159355197693022" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.8807299177809" y="0" width="0.5071261913493275" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="457.38785610913027" y="0" width="2.6121438908697634" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -94,8 +94,8 @@
                         <span class="name">@systemd/systemd</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.618513599921303 329"/>
-                            <text x="15" y="15" dominant-baseline="central">1636</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.6176766932075095 329"/>
+                            <text x="15" y="15" dominant-baseline="central">1637</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
@@ -140,6 +140,23 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#37415 #34856 needs post-merge love</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">systemd/systemd</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -205,23 +222,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by jlebon in <span class="repo">systemd/systemd</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#8312 RFE: stop silently ignoring `--now` option when combined with `systemctl preset`</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by sourcejedi in <span class="repo">systemd/systemd</span></div>
                                 </div>
                             </section>
                         </div>
