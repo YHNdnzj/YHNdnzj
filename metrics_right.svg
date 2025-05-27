@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.2147704958493" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="374.2147704958493" y="0" width="58.59528308346134" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="432.8100535793106" y="0" width="21.349861126659754" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.1599147059703" y="0" width="1.325697101207755" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.48561180717803" y="0" width="0.7849415105592933" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.2705533177373" y="0" width="0.6149858737276687" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.885539191465" y="0" width="0.5063443069397322" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="457.39188349840475" y="0" width="2.6081165015952" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.20343436537644" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="374.20343436537644" y="0" width="58.6030261853679" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="432.8064605507443" y="0" width="21.35268241434189" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.1591429650862" y="0" width="1.3258722860897403" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.485015251176" y="0" width="0.7850452370332875" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.27006048820925" y="0" width="0.6150671413321717" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.88512762954144" y="0" width="0.5064112180520627" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="457.3915388475935" y="0" width="2.60846115240655" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -94,7 +94,7 @@
                         <span class="name">@systemd/systemd</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.674358848864526 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.673134090992501 329"/>
                             <text x="15" y="15" dominant-baseline="central">1658</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -102,7 +102,7 @@
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.683501446004091 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.6811451135241855 329"/>
                             <text x="15" y="15" dominant-baseline="central">288</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -144,67 +144,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#37598 User service can't decrypt SetCredentialEncrypted computed with `systemd-creds encrypt --user`</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Valloric in <span class="repo">systemd/systemd</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Merged
-                                        <span class="issue">#37582 core: renames in io.systemd.Manager</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ikruglov in <span class="repo">systemd/systemd</span></div>
-                                    <div>5 files changed <span class="code">++7 --7</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#37518 core/cgroup: also assume cgroup.events frozen attr is available</span>
+                                        Opened
+                                        <span class="issue">#37625 fs-util: prefer linkat(AT_EMPTY_PATH) over /proc/self/fd/ shenanigans</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">systemd/systemd</span></div>
-                                    <div>4 files changed <span class="code">++42 --94</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#33397 Remove /usr partition types from list of root types</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by pyfisch in <span class="repo">systemd/systemd</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>1 file changed <span class="code">++13 --14</span></div>
                                 </div>
                             </section>
                         </div>
@@ -216,12 +165,63 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#37518 core/cgroup: also assume cgroup.events frozen attr is available</span>
+                                        <span class="issue">#37624 cgroup-util: drop handcrafted cg_is_empty(), always check cgroup.events populated field</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">systemd/systemd</span></div>
-                                    <div>4 files changed <span class="code">++42 --94</span></div>
+                                    <div>8 files changed <span class="code">++12 --121</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#37618 socket-util: Move getsockopt_int() to implementation file</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by DaanDeMeyer in <span class="repo">systemd/systemd</span></div>
+                                    <div>2 files changed <span class="code">++18 --13</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#37623 basic,shared: mark eligible functions with _pure_/_const_</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">systemd/systemd</span></div>
+                                    <div>25 files changed <span class="code">++116 --121</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#37598 User service can't decrypt SetCredentialEncrypted computed with `systemd-creds encrypt --user`</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Valloric in <span class="repo">systemd/systemd</span></div>
                                 </div>
                             </section>
                         </div>
