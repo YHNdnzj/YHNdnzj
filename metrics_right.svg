@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="506" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="489" class="">
     <defs>
         <style/>
     </defs>
@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.2459416965011" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="450.2459416965011" y="0" width="4.056918739264203" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="454.30286043576535" y="0" width="3.0975814632343575" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="457.4004418989997" y="0" width="1.9117085996041965" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.3121504986039" y="0" width="0.3966468639498886" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="459.7087973625538" y="0" width="0.08257224898265964" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.7913696115364" y="0" width="0.05330895306999268" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.8446785646064" y="0" width="0.15532143539354842" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.24370878541174" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="450.24370878541174" y="0" width="4.059232918351832" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="454.30294170376357" y="0" width="3.0975257510406813" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="457.40046745480424" y="0" width="1.9116954152594863" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.31216287006373" y="0" width="0.39663972997547414" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="459.70880260003923" y="0" width="0.08257076386235458" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.7913733639016" y="0" width="0.05330799427076388" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.84468135817235" y="0" width="0.155318641827667" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -94,16 +94,16 @@
                         <span class="name">@systemd/systemd</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.905870777304034 329"/>
-                            <text x="15" y="15" dominant-baseline="central">1728</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.921184001166026 329"/>
+                            <text x="15" y="15" dominant-baseline="central">1732</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.9001677852349 329"/>
-                            <text x="15" y="15" dominant-baseline="central">300</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="6.921716642203118 329"/>
+                            <text x="15" y="15" dominant-baseline="central">301</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
@@ -144,16 +144,33 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#37870 #36437 needs post-merge love</span>
+                                        Closed
+                                        <span class="issue">#37961 `run0`’s `--` argument is not documented</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">systemd/systemd</span></div>
+                                    <div>opened by Jayman2000 in <span class="repo">systemd/systemd</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#37947 logind: save position only if we have a seat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by poettering in <span class="repo">systemd/systemd</span></div>
+                                    <div>1 file changed <span class="code">++8 --7</span></div>
                                 </div>
                             </section>
                         </div>
@@ -166,28 +183,11 @@
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#37715 Retrieving process information via pidfd fails under podman</span>
+                                        <span class="issue">#35959 ImportCredential= with PrivateDevices=yes can't access the TPM</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by keszybz in <span class="repo">systemd/systemd</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#37865 fstab-generator: log about the fstype in effect</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">systemd/systemd</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>opened by jeremycline in <span class="repo">systemd/systemd</span></div>
                                 </div>
                             </section>
                         </div>
@@ -199,12 +199,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#37620 socket-activate: add a --now option to instantly start service</span>
+                                        <span class="issue">#37692 core: when PrivateDevices= is enabled and we need to decrypt TPM2 cre…</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by applemayexist in <span class="repo">systemd/systemd</span></div>
-                                    <div>4 files changed <span class="code">++93 --19</span></div>
+                                    <div>opened by poettering in <span class="repo">systemd/systemd</span></div>
+                                    <div>6 files changed <span class="code">++69 --43</span></div>
                                 </div>
                             </section>
                         </div>
@@ -212,16 +212,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#37852 meson: enable -Werror=missing-parameter-name</span>
+                                        <span class="issue">#37870 #36437 needs post-merge love</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">systemd/systemd</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>opened  in <span class="repo">systemd/systemd</span></div>
                                 </div>
                             </section>
                         </div>
